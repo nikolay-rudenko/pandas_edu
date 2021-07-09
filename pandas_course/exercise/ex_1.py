@@ -1,6 +1,5 @@
 ###############################################################
 # DO NOT DELETE THIS CODE. IT IS NEEDED FOR THE TESTS TO RUN. #
-from pprint import pprint
 # from unittest.mock import MagicMock                           #
 import pandas as pd                                           #
 # pd.Series = MagicMock()                                       #
