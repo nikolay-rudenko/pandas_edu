@@ -1,7 +1,8 @@
 ###############################################################
 # DO NOT DELETE THIS CODE. IT IS NEEDED FOR THE TESTS TO RUN. #
 # from unittest.mock import MagicMock                           #
-import pandas as pd                                           #
+import pandas as pd  #
+
 # pd.Series = MagicMock()                                       #
 ###############################################################
 
@@ -29,9 +30,9 @@ colors = pd.Series(colors)
 # Assign the resulting Series to a "series_dict" variable
 
 recipe = {
-  "Flour": True,
-  "Sugar": True,
-  "Salt": False
+    "Flour": True,
+    "Sugar": True,
+    "Salt": False
 }
 
 series_dict = pd.Series(recipe)
