@@ -15,9 +15,3 @@ import pandas as pd                                             #
 
 
 # Write the code to extract the "C" column from the DataFrame.
-
-
-# Write the code to extract the "E" column from the DF
-
-
-# Write the code to extract the "A" column from the DataFrame.
