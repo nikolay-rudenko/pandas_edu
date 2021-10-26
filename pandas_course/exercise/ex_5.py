@@ -13,5 +13,3 @@ import pandas as pd                                             #
 #
 # The DataFrame has been assigned to the variable "df"
 
-
-# Write the code to extract the "C" column from the DataFrame.
